@@ -1,2 +1,2 @@
 # Accelerometro
-accelerometro  mariolino
+accelerometro  per il corso misure, sensori ed elaborazione dei segnali
